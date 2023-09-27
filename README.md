@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing high-performance parallel numerical methods/algorithms for solving challenging applied mechanics and engineering problems.
 - 🌱 I’m currently working on projects to build parallel codes for solving PDEs on heterogeneous systems.
 - 💞️ I’m looking to collaborate on research about high-performance methods/algorithms applied to engineering problems.
-- 📫 How to reach me: han (dot) tran (at) utah (dot) edu
+- 📫 How to reach me: hantran@cs.utah.edu
 
 <!---
 hanductran/hanductran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
